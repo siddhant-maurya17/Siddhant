@@ -2,7 +2,7 @@
 
 This repository contains a collection of my professional activities.
 <div align="center">
-  <img alt="" src="https://avatars.githubusercontent.com/u/59874304?s=400&u=a90ce890d0e3d04ef84d5ae09b143dcb2ecc5d1b&v=4" width="200px;">
+  <img alt="" src="https://avatars.githubusercontent.com/u/88020811?v=4" width="200px;">
 </div>
 <br />
 
