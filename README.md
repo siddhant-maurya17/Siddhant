@@ -1,4 +1,4 @@
-# Frontend Developer
+##Frontend Developer
 
 This repository contains a collection of my professional activities.
 <div align="center">
@@ -6,10 +6,13 @@ This repository contains a collection of my professional activities.
 </div>
 <br />
 
-#Introduction 
+##Introduction 
 <div align="center">
   <a href="https://www.linkedin.com/in/sidhthecoder/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://www.leetcode.com/in/sidthecoder/">
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06">
   </a>
   <a href="mailto:siddhant.maurya.1122@gmail.com">
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
