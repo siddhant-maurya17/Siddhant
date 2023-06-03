@@ -21,3 +21,9 @@ This repository contains a collection of my professional activities.
 <br />
 
 Hello everyone! I'm **Siddhant Maurya**, graduated from CSJM Kanpur in a field of ECE in 2022. I believe that we must follow our interest and give 100% to it, in between of graduation , I'm more exicted when i done my summer internship. Somehow i get connected with coding and i put one step forward towards my interest after graduation.My activities always surprise me what i have done in past few months is a short story for others but not for me.
+
+<br/>
+
+## Resume
+
+<a href="https://drive.google.com/drive/my-drive">Resume Link</a>
