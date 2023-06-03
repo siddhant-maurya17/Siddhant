@@ -26,4 +26,4 @@ Hello everyone! I'm **Siddhant Maurya**, graduated from CSJM Kanpur in a field o
 
 ## Resume
 
-<a href="https://drive.google.com/drive/my-drive">Resume Link</a>
+<a href="https://drive.google.com/file/d/1zuIXX3XCtuEXxec_YhfqtHQrFWDCwqZ7/view?usp=sharing">Resume Link</a>
